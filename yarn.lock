@@ -2489,10 +2489,10 @@ co@^4.6.0:
   resolved "https://registry.npmjs.org/co/-/co-4.6.0.tgz#6ea6bdf3d853ae54ccb8e47bfa0bf3f9031fb184"
   integrity sha1-bqa989hTrlTMuOR7+gvz+QMfsYQ=
 
-code-specification-unid@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.npmjs.org/code-specification-unid/-/code-specification-unid-1.0.2.tgz#4d1e6089b9f3e32f2feefdf06a0cd7d63e5eb277"
-  integrity sha512-hDLtNe95wHUwYgtNIPOsaXGK/vOvX7EfaQG99ke6cy+v1QCgsA3JZF2Im4rbDt6npCo7CZkXuA+fSkdcm7VWDw==
+code-specification-unid@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.npmjs.org/code-specification-unid/-/code-specification-unid-1.0.3.tgz#8bd74d4ea632d76f0e1a36383c96d16063c5445f"
+  integrity sha512-wk1X6jDZ187PL/63fPL+Bn6yBsh3SvzH0sATU0Ur9nbqrMaWwAL2Kdf4k88NagiC52sEaA6qhPedUrMKbqHFfA==
   dependencies:
     "@babel/core" "^7.12.10"
     "@babel/eslint-parser" "^7.12.1"
