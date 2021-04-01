@@ -2,7 +2,6 @@
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
-    "test": "web-test-runner \"src/**/*.test.jsx\"",
     "lint": "npm run lint:js && npm run lint:css && npm run lint:format",
     "lint:js": "eslint src --fix --ext .js,.jsx,.ts,.tsx --cache --cache-location node_modules/.cache/eslint/",
     "lint:css": "stylelint --fix \"src/**/*.{less,postcss,css,scss}\" --cache --cache-location node_modules/.cache/stylelint/",
